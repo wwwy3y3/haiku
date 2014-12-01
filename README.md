@@ -1,3 +1,7 @@
+Haiku.js is a js heroku-like name generator
+
+fork from [kevinmlawson](http://kevinmlawson.com/herokuname/)
+
 Based on [this Gist](https://gist.github.com/afriggeri/1266756) and [this Stack Overflow answer](http://stackoverflow.com/a/20059752/1191953).
 
 ## install
