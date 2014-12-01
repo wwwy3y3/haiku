@@ -8,8 +8,11 @@ var adjs = [
     "red", "rough", "still", "small", "sparkling", "throbbing", "shy",
     "wandering", "withered", "wild", "black", "young", "holy", "solitary",
     "fragrant", "aged", "snowy", "proud", "floral", "restless", "divine",
-    "polished", "ancient", "purple", "lively", "nameless"
-  ]
+    "polished", "ancient", "purple", "lively", "nameless", "lucky", "odd", "tiny",
+    "free", "dry", "yellow", "orange", "gentle", "tight", "super", "royal", "broad",
+    "steep", "flat", "square", "round", "mute", "noisy", "hushy", "raspy", "soft",
+    "shrill", "rapid", "sweet", "curly", "calm", "jolly", "fancy", "plain", "shinny"
+    ]
 var nouns = [
     "waterfall", "river", "breeze", "moon", "rain", "wind", "sea", "morning",
     "snow", "lake", "sunset", "pine", "shadow", "leaf", "dawn", "glitter",
@@ -19,7 +22,11 @@ var nouns = [
     "snowflake", "silence", "sound", "sky", "shape", "surf", "thunder",
     "violet", "water", "wildflower", "wave", "water", "resonance", "sun",
     "wood", "dream", "cherry", "tree", "fog", "frost", "voice", "paper",
-    "frog", "smoke", "star"
+    "frog", "smoke", "star", "atom", "band", "bar", "base", "block", "boat",
+    "term", "credit", "art", "fashion", "truth", "disk", "math", "unit", "cell",
+    "scene", "heart", "recipe", "union", "limit", "bread", "toast", "bonus",
+    "lab", "mud", "mode", "poetry", "tooth", "hall", "king", "queen", "lion", "tiger",
+    "penguin", "kiwi", "cake", "mouse", "rice", "coke", "hola", "salad", "hat"
   ]
 
 var Haiku= function () {
