@@ -1,5 +1,10 @@
 Based on [this Gist](https://gist.github.com/afriggeri/1266756) and [this Stack Overflow answer](http://stackoverflow.com/a/20059752/1191953).
 
+## install
+```
+npm install haiku.js
+```
+
 ## usage
 ``` javascript
 var haiku= require('haiku.js');
